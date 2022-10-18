@@ -6,8 +6,6 @@ def print_hi(name):
 
 if __name__ == '__main__':
 
-    print('hello Sumana')
-    print('hello shubha')
     # Opening JSON file
     f = open('./resource/swagger.json')
 
