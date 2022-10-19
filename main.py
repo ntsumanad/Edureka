@@ -20,4 +20,5 @@ if __name__ == '__main__':
     # Closing file
     f.close()
 
+##Adding this line just for tag release1.2
 
